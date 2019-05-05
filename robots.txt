@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iaxamiede.sumory.com/sitemap.xml
